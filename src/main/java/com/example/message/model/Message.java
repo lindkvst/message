@@ -17,4 +17,5 @@ public class Message {
     public String toString() {
         return "ID: " + id + ", content: " + content;
     }
+    //Test
 }
